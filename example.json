@@ -1,0 +1,29 @@
+{
+  "exif": {
+    "software": "http://example.com",
+    "artist": "Jenn Schiffer",
+    "imageDescription": "only 3 pixels",
+    "userComment": "made as an example for pxon",
+    "copyright": "jenn schiffer 2018",
+    "dateTime": "2018-02-23T18:09:51.761Z"
+  },
+  "pxif": {
+    "pixels": [
+      {
+        "x": 15,
+        "y": 15,
+        "color": "rgba(0, 0, 0, 1)",
+      },      
+      {
+        "x": 45,
+        "y": 45,
+        "color": "#cc9999",
+      },
+      {
+        "x": 35,
+        "y": 25,
+        "color": "magenta",
+      }
+    ]
+  }
+}
